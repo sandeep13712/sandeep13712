@@ -1,3 +1,5 @@
+***Currently looking for new opportunities related to data science or data platform development***
+
 **:red_circle: About me**
 
 - 🔭 I’m currently working on **developing a parser for extracting information from research articles.**
