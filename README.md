@@ -29,5 +29,5 @@
 
 **:red_circle: Courses I have studied**
 - **In class:** Distributed and Concurrent Systems | Systems Theory | Game Theory and information
-- **Online:** Peoples Analytics | Tensor Flow Specialization | Machine Learning Specialization 
+- **Coursera:** People Analytics | Tensor Flow Specialization | Machine Learning Specialization 
 
