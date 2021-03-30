@@ -5,15 +5,11 @@
 ----
 
 **:red_circle: About me**
-
-- 🔭 I’m currently working on **developing a parser for extracting information from research articles.**
-- 🌱 I’m currently learning **SparkSQL | Venture Development**
-- 👯 I’m looking to collaborate on **NLP projects**
-- 🤔 I’m looking for help with **DevOps**
-- 💬 Ask me about **python | django | statistics | machine learning | GCP | SQL | Graph Analysis | People Analytics**
-- 📫 How to reach me: **sandeep25789@gmail.com**
-- 😄 Pronouns: **He/His**
-
+- Background : computer science and machine learning
+- Skillset: strong programming skills and 8+ years of experience in computational research
+- Deep understanding of data analytics from theoretical as well as more applied perspective. 
+- Developed new machine learning tools that allow more intuitive visualization of the data. 
+- Developed a cloud-based AI-powered platform that not only extracts insights from data without any manual intervention, but also allows generation of new investigation leads. 
 
 
 **:red_circle: Technologies I have worked on**
