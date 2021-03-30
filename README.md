@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**sandeep13712/sandeep13712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-About me:
+**About me:**
 
 - 🔭 I’m currently working on **developing a parser for extracting information from research articles.**
 - 🌱 I’m currently learning **SparkSQL | Venture Development**
