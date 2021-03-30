@@ -2,7 +2,7 @@
 
 [My Latest Resume](https://github.com/sandeep13712/sandeep13712/blob/main/Resume_SKumar.pdf)
 
--
+----
 
 **:red_circle: About me**
 
