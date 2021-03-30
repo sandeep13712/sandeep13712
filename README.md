@@ -1,4 +1,4 @@
-**About me**
+**:red_circle: About me**
 
 - 🔭 I’m currently working on **developing a parser for extracting information from research articles.**
 - 🌱 I’m currently learning **SparkSQL | Venture Development**
@@ -10,7 +10,7 @@
 
 
 
-**Technologies I have worked on**
+**:red_circle: Technologies I have worked on**
 - python | scipy | pandas | igraph
 - PHP | JSP | Visual Basic | C#
 - Google AppScript | BashScript | VBA - Scripting
@@ -20,7 +20,7 @@
 - SendGrid | Google Cloud APIs | Coinbase Pro
 - MySQL | SQL | JDBC | ODBC
 
-**Companies I have worked with**
+**:red_circle: Companies I have worked with**
 - Microsoft (as vendor) | Software and IT
 - Tata Consultancy Services Ltd | Software and IT
 - IIT Bombay | Academic Institute
