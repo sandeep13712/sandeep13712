@@ -1,4 +1,4 @@
-***Contact me if you want to push the boundary of NLP-driven people analytics***
+***Contact me if you want to collaborate on pushing the boundary of NLP-driven People Analytics***
 
 [My Latest Resume](https://github.com/sandeep13712/sandeep13712/blob/main/Resume_SKumar.pdf)
 
