@@ -1,4 +1,4 @@
-***Currently looking for new opportunities related to data science or data platform development***
+***Contact me if you want to push the boundary of NLP-driven people analytics***
 
 [My Latest Resume](https://github.com/sandeep13712/sandeep13712/blob/main/Resume_SKumar.pdf)
 
